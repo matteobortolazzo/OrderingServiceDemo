@@ -41,3 +41,9 @@ The path for the .dacpac is *\<AbsolutePath\>/Ordering.DB/bin/Release/Ordering.D
 ### APIs
 
 Copy the folder *bin/Release/netcoreapp2.2/publish* and deploy is any server that support .NET Core 2.2.
+
+## Documentation
+
+APIs are document using the **OpenApi** standard.
+The documentation can be viewed in */swagger*.
+Additional documentation could added using XML.
